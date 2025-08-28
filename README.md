@@ -61,7 +61,7 @@
 ## 📫 Me contacter
 - 📧 Email : **godjanlucien@gmail.com**  
 - 🌐 GitHub : [github.com/Doflamingo2054](#)  
-- 💼 LinkedIn : [linkedin.com/in/lucien-godjan-365728243/](#)  
+- 💼 LinkedIn : [linkedin.com/in/lucien-godjan](#)  
 
 ---
 
