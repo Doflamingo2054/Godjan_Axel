@@ -8,7 +8,7 @@
 
 ## 🛠️ Compétences techniques
 
-- **Langages & Data** : SQL/Postgres, Python  
+- **Langages** : SQL/Postgres, Python  
 - **Data Engineering** : Snowflake, Airflow, Spark *(en cours)*  
 - **Cloud** : AWS Cloud Practitioner
 - **Versioning & Collaboration** : Git  
