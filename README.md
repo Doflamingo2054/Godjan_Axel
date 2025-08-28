@@ -18,7 +18,7 @@
 
 ## 📂 Mes projets
 
-🔹 **[Pipeline Batch Processing – Architecture Médaillon](#)**  
+🔹 **[[Pipeline Batch Processing – Architecture Médaillon](https://github.com/Doflamingo2054/axel-dwh-project)](#)**  
 ➡ Ingestion et traitement de gros fichiers CSV.  
 ➡ Mise en place d’un **data pipeline** avec zones *Bronze, Silver, Gold*.  
 ➡ Construction d’un Data Warehouse pour générer des KPIs fiables.  
