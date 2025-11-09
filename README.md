@@ -1,7 +1,7 @@
 # 👋 Bienvenue, je suis Godjan Axel
 
 🎓 Étudiant en Master of Science *Big Data Intelligence for Human Augmented Reality* à l’**ESATIC**  
-💻 Data Engineer Junior | Passionné de Big Data, Cloud & Nouvelles technologies  
+💻 Junior Data Engineer | Passionné de Big Data, Cloud & Nouvelles technologies  
 🚀 Curieux, méthodique et toujours prêt à apprendre en construisant **from scratch**  
 
 ---
