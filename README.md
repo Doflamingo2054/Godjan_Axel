@@ -1,68 +1,71 @@
-# 👋 Bienvenue, je suis Godjan Axel
+# 👋 Bienvenue, je suis **Godjan Axel**
 
 🎓 Étudiant en Master of Science *Big Data Intelligence for Human Augmented Reality* à l’**ESATIC**  
-💻 Junior Data Engineer | Passionné de Big Data, Cloud & Nouvelles technologies  
-🚀 Curieux, méthodique et toujours prêt à apprendre en construisant **from scratch**  
+💻 Junior **Data Engineer** passionné par le **Big Data**, le **Cloud** et les innovations technologiques  
+🚀 Curieux, méthodique et motivé pour construire des solutions **data-driven** from scratch  
 
 ---
 
 ## 🛠️ Compétences techniques
 
-- **Langages** : SQL/Postgres, Python  
-- **Data Engineering** : ETL\ELT,Snowflake, Airflow, Spark *(en cours)*  
-- **Cloud** : AWS Cloud Practitioner
-- **Versioning & Collaboration** : Git  
-- **Langues** : Français , Anglais  
+| Domaine | Compétences |
+|--------|-------------|
+| **Langages** | SQL/Postgres, Python |
+| **Data Engineering** | ETL/ELT, Snowflake, Airflow, Spark *(en cours)* |
+| **Base de données** | PostgreSQL |
+| **Cloud** | AWS Cloud Practitioner |
+| **Outils & Collaboration** | Git, GitHub |
+| **Langues** | Français, Anglais |
 
 ---
 
-## 📂 Mes projets
+## 📂 Projets
 
-🔹 **[[Pipeline Batch Processing – Architecture Médaillon](https://github.com/Doflamingo2054/axel-dwh-project)]**  
+### 🔹 **Pipeline Batch Processing – Architecture Médaillon**  
+**Repo GitHub :** https://github.com/Doflamingo2054/axel-dwh-project  
 
-- Intégration et traitement de données issues de systèmes CRM et ERP afin de construire une vision analytique consolidée.
+- Ingestion et traitement de données issues de systèmes **CRM** et **ERP**.
 - Mise en place d’un pipeline batch structuré en layers Bronze, Silver, Gold pour assurer qualité, normalisation et historisation des données.
 - Conception d’un Data Warehouse et production de KPIs fiables pour le suivi de l’activité (customers,products,sales).
-🛠️ SQL/Postgres, Git
----
-
-🔹 **[Projet Cloud & Data sur AWS](#)**  
-➡ Création et configuration d’instances **EC2**.  
-➡ Mise en place de buckets **S3** pour un stockage sécurisé et scalable.  
-➡ Exploration du networking et architecture cloud.  
-🛠️ *AWS (EC2, S3)*
+- **Tech :** SQL/Postgres, Git
 
 ---
 
-🔹 **[Mini-projets Web](#)**  
-➡ **To-do list** et **Calculatrice** en HTML, CSS & JavaScript.  
-
-
-🔹 **[Modélisation mathématique : Chaîne de Markov – Jeu de ruine](#)**  
-➡ Étude probabiliste avec chaînes de Markov.  
-➡ Calcul des probabilités d’absorption et simulation de scénarios.  
+### 🔹 Projet Cloud & Data sur AWS *(en cours d’enrichissement)*
+- Création et configuration d’instances **EC2**
+- Mise en place de **S3 Buckets** pour le stockage
+- Exploration du **networking** et de l’architecture cloud
+- **Tech :** AWS (EC2, S3)
 
 ---
 
-🔹 **[Projet académique – Optimisation multi-objectif](#)**  
-➡ Application de méthodes d’optimisation (Pareto, ε-contraintes, pondération).  
-➡ Analyse de problèmes complexes en recherche opérationnelle.  
+### 🔹 Mini-projets Web
+- To-do List et Calculatrice en **HTML / CSS / JavaScript**
+
+### 🔹 Modélisation mathématique : **Chaîne de Markov – Jeu de ruine**
+- Calcul et simulation des probabilités d’absorption  
+- Visualisation de scénarios probabilistes
+
+### 🔹 Optimisation Multi-objectif
+- Application des méthodes **Pareto**, **pondération**, **ε-contraintes**
 
 ---
 
 ## 💡 Soft Skills
+
 - Esprit analytique  
-- Rigueur  
-- Travail d’équipe  
-- Curiosité et apprentissage continu  
+- Rigueur et organisation  
+- Travail en équipe  
+- Curiosité + apprentissage continu  
 
 ---
 
 ## 📫 Me contacter
-- 📧 Email : **godjanlucien@gmail.com**  
-- 🌐 GitHub : [Doflamingo2054](https://github.com/Doflamingo2054/)
-- 💼 LinkedIn : [linkedin.com/in/lucien-godjan](https://www.linkedin.com/in/lucien-godjan-365728243/) 
+
+- 📧 **godjanlucien@gmail.com**  
+- 🌐 **GitHub :** https://github.com/Doflamingo2054  
+- 💼 **LinkedIn :** https://www.linkedin.com/in/lucien-godjan-365728243/  
 
 ---
 
-✨ Merci d’avoir visité mon profil ! N’hésite pas à explorer mes dépôts et à me donner un retour.
+✨ Merci pour votre visite ! N’hésitez pas à explorer mes projets et à me laisser un retour 🙂
