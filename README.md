@@ -19,7 +19,8 @@
 ## 📂 Mes projets
 
 🔹 **[[Pipeline Batch Processing – Architecture Médaillon](https://github.com/Doflamingo2054/axel-dwh-project)]**  
-➡ Intégration et traitement de données issues de systèmes CRM et ERP afin de construire une vision analytique consolidée.
+
+- Intégration et traitement de données issues de systèmes CRM et ERP afin de construire une vision analytique consolidée.
 ➡ Mise en place d’un pipeline batch structuré en layers Bronze, Silver, Gold pour assurer qualité, normalisation et historisation des données.
 ➡ Conception d’un Data Warehouse et production de KPIs fiables pour le suivi de l’activité (customers,products,sales).
 🛠️ SQL/Postgres, Git
