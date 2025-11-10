@@ -21,8 +21,7 @@
 
 ## 📂 Projets
 
-### 🔹 **Pipeline Batch Processing – Architecture Médaillon**  
-**Repo GitHub :** https://github.com/Doflamingo2054/axel-dwh-project  
+### 🔹 **[[Pipeline Batch Processing – Architecture Médaillon](https://github.com/Doflamingo2054/axel-dwh-project)]** 
 
 - Ingestion et traitement de données issues de systèmes **CRM** et **ERP**.
 - Mise en place d’un pipeline batch structuré en layers Bronze, Silver, Gold pour assurer qualité, normalisation et historisation des données.
@@ -62,9 +61,9 @@
 
 ## 📫 Me contacter
 
-- 📧 **godjanlucien@gmail.com**  
-- 🌐 **GitHub :** https://github.com/Doflamingo2054  
-- 💼 **LinkedIn :** https://www.linkedin.com/in/lucien-godjan-365728243/  
+- 📧Email: **godjanlucien@gmail.com**  
+- 🌐 GitHub : [Doflamingo2054](https://github.com/Doflamingo2054/)
+- 💼 LinkedIn : [linkedin.com/in/lucien-godjan](https://www.linkedin.com/in/lucien-godjan-365728243/) 
 
 ---
 
