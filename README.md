@@ -19,11 +19,10 @@
 ## 📂 Mes projets
 
 🔹 **[[Pipeline Batch Processing – Architecture Médaillon](https://github.com/Doflamingo2054/axel-dwh-project)]**  
-➡ Ingestion et traitement de gros fichiers CSV.  
-➡ Mise en place d’un **data pipeline** avec zones *Bronze, Silver, Gold*.  
-➡ Construction d’un Data Warehouse pour générer des KPIs fiables.  
-🛠️ *SQL/Postgres, Git*
-
+➡ Intégration et traitement de données issues de systèmes CRM et ERP afin de construire une vision analytique consolidée.
+➡ Mise en place d’un pipeline batch structuré en layers Bronze, Silver, Gold pour assurer qualité, normalisation et historisation des données.
+➡ Conception d’un Data Warehouse et production de KPIs fiables pour le suivi de l’activité (customers,products,sales).
+🛠️ SQL/Postgres, Git
 ---
 
 🔹 **[Projet Cloud & Data sur AWS](#)**  
